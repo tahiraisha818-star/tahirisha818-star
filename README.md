@@ -1,38 +1,63 @@
-<h2 align="center">Building Skills • Solving Problems • Growing in Tech 🚀</h2>
 # Hi, I'm Ayesha 👋
 
 💻 Computer Science Student  
-🚀 Passionate about building, learning, and growing in tech  
+🚀 Aspiring Software Engineer passionate about building applications, solving problems, and learning new technologies.
+
+I enjoy developing software projects and exploring different areas of computer science including web development, programming, databases, and embedded systems.
 
 ---
 
-## 🔧 Skills
-- 💡 Java
-- 💡 C++
-- 💡 Python
-- 💡 Data Structures
-- 💡 Object-Oriented Programming
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+- C++
+- Python
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- UI/UX Design
+
+### Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Fundamentals
+
+### Tools
+- Git & GitHub
+- VS Code
 
 ---
 
-## 📌 Current Focus
-- 📈 Improving problem-solving skills  
-- 🛠️ Building real-world projects  
-- 📚 Strengthening core programming concepts  
+## 🚀 Projects
+
+### 🌐 JavaScript Learning Journey
+Collection of JavaScript exercises, challenges, and small projects documenting my learning progress.
+
+### 🛒 Amazon Clone Project
+A JavaScript-based e-commerce project implementing products, cart functionality, and interactive features.
+
+### 📚 Student Record Management System
+A C++ application developed to manage student records using programming concepts and data structures.
+
+### 🚗 Human Following Car (Arduino)
+A robotics project built using Arduino, sensors, and embedded systems to create an autonomous human-following vehicle.
 
 ---
 
-## 🌱 Goals
-- 🚀 Grow as a software developer  
-- 💻 Build impactful and scalable solutions  
-- 🌍 Contribute to the tech community  
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- Frontend Development
+- Software Engineering Practices
+- Building real-world applications
 
 ---
 
-## 🔗 Connect with Me
-- 💼 LinkedIn: [Ayesha Tahir](https://www.linkedin.com/in/ayesha-tahir-23916b347)
-- 💻 GitHub: https://github.com/tahirisha818-star
+## 📫 Connect With Me
 
----
-
-✨ *Consistent effort builds real progress.*
+LinkedIn:
+https://www.linkedin.com/in/ayesha-tahir-23916b347/
